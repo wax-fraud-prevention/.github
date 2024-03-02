@@ -11,7 +11,7 @@ We maintain [The WAX Fraud Database](https://github.com/wax-fraud-prevention/wax
 ### Supporters
 
 <p align="center">
-  <a href="http://waxitems.com"><img src="waxitems.png" valign="middle" /></a>
+  <a href="http://waxitems.com"><img src="https://raw.githubusercontent.com/wax-fraud-prevention/.github/main/profile/waxitems.png" valign="middle" /></a>
   &nbsp;
-  <a href="http://blocdraig.com"><img src="blocdraig.png" valign="middle" /></a>
+  <a href="http://blocdraig.com"><img src="https://raw.githubusercontent.com/wax-fraud-prevention/.github/main/profile/blocdraig.png" valign="middle" /></a>
 </p>
